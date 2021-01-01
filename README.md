@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Iradium PvP faction
+- 🔭 I’m currently working on Iradium PvP Faction
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Discord (Aigle Noir#0001)
 -->
