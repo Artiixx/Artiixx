@@ -1,16 +1,16 @@
-### Hi I'm Aigle Noir👋
+<h1 align="center">Hi 👋, I'm Aigle Noir</h1>
+<h3 align="center">I'm a Canadian developper who loves to learn new things</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aigle-noir123&label=Profile%20views&color=0e75b6&style=flat" alt="aigle-noir123" /> </p>
 
 - 🔭 I’m currently working on [Iradium PvP Faction](https://iradium.net/)
-- 🌱 I’m currently learning [JavaScript](https://www.javascript.com/)
-- 📫 How to reach me: Discord [Aigle Noir#0001](#)
 
-### More infos📃
-- Canadian🍁
-- I speak french🥖
-- I like to play video games🎮
-- I'm on Discord since 2018💻
-- I'm friendly and I like teamwork🤝
+- 🌱 I’m currently learning **JavaScript**
 
-### Programmation langages🧮
-https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
+- 📫 How to reach me **Discord (Aigle Noir#0001)**
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aigle-noir123&show_icons=true&locale=en" alt="aigle-noir123" /></p>
