@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **Discord (Aigle Noir#0001)**
+- 📫 How to reach me **Discord (Aigle Noir#7005)**
 
 
 <h3 align="left">Languages and Tools:</h3>
