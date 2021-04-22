@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aigle-noir123&label=Profile%20views&color=0e75b6&style=flat" alt="aigle-noir123" /> </p>
 
-- 🔭 I’m currently working on [**Iradium PvP Faction**](https://iradium.net/)
+- 🔭 I’m currently working on [**Iradium Mini-Jeux**](https://iradium.net/)
 
 - 🌱 I’m currently learning **JavaScript**
 
