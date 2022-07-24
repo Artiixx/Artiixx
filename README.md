@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aigle-noir123&label=Profile%20views&color=0e75b6&style=flat" alt="aigle-noir123" /> </p>
 
-- 👨‍💼 I’m currently working on [Hexy Bot List](https://hexybotlist.xyz/)
+- 👨‍💼 I’m currently working on [DeepCodes](https://deepcodes.xyz/)
 
 - 📫 How to reach me **https://dsc.bio/aiglenoir**
 
