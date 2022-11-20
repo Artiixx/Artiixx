@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aigle Noir</h1>
+<h1 align="center">Hi 👋, I'm Artix</h1>
 <h3 align="center">A French Canadian developper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aigle-noir123&label=Profile%20views&color=0e75b6&style=flat" alt="aigle-noir123" /> </p>
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **https://dsc.bio/aiglenoir**
 
-- 📄 More infos about me [https://aiglenoir.xyz/](https://aiglenoir.xyz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
